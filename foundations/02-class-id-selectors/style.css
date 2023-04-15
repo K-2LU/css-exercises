@@ -1,0 +1,19 @@
+.uno    {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#dos    {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#tres   {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

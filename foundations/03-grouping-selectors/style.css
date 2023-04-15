@@ -1,0 +1,14 @@
+.ob1    {
+    background-color: black;
+    color: white;
+}
+
+.ob2    {
+    background-color: yellow;
+}
+
+.ob1,
+.ob2    {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
